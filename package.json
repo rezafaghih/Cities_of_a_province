@@ -1,0 +1,25 @@
+{
+  "name": "iran-province-city-javascript",
+  "version": "1.0.0",
+  "description": "Iran Province and city javascript package",
+  "main": "apps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezafaghih/Cities_of_a_province.git"
+  },
+  "keywords": [
+    "iran",
+    "iran_province",
+    "iran_province_city",
+    "iran_province_javascript"
+  ],
+  "author": "Rezafaghih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezafaghih/Cities_of_a_province/issues"
+  },
+  "homepage": "https://github.com/rezafaghih/Cities_of_a_province#readme"
+}
