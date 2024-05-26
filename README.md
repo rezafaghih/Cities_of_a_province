@@ -21,8 +21,9 @@ simply you can add script in head of your project or use module
 
 <h5>Use Script</h5>
 
+```
 <script src = "node_modules/iran-province-city-package/apps.js"></script>
-
+```
 
 or use Module 
 
