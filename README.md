@@ -17,7 +17,15 @@ npm i @rezafaghih/iran-province-city-javascript --save
 
 for using this library in your project you need to create province class object 
 
+simply you can add script in head of your project or use module 
+
+<h5>Use Script</h5>
+```html 
+    <script src = "node_modules/apps.js"></script>
+```
+
 ```javascript
+
     var province_lib = new province (); 
 
     // you can call any methods you like
