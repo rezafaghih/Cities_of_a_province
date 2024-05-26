@@ -17,7 +17,7 @@ class province {
       var provinceID = null;
       json.forEach(element => {
         
-          if (element.title == name){
+          if (element.title == name || element.slug.toLowerCase() == name.toLowerCase() || element.slug.toUpperCase() == name.toUpperCase() || element.slug == name){
             provinceID = element.id
             // return element.id
           }
