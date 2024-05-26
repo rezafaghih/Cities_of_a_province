@@ -41,3 +41,20 @@ if you know Id of a province and you want to get cities of that province you can
 ```javascript 
     province_lib.getProvinceCityList(cityID); // simply this method will return a json 
 ```
+
+<h3>Get Count of province cities</h3>
+
+get count of province cities you can use this method 
+```javascript 
+    province_lib.getCountOfProvinceCities(cityID); // simply this method will integer
+```
+
+<h3>Get ProvinceID From Name</h3>
+
+this method will return the provinceID from province name
+```javascript 
+    province_lib.findProvinceIdFromName (name); // simply this method will ID of province
+    // name should be string
+    // name can be persian like (فارس , تهران , بوشهر)
+    // name can be english like (Tehran, Bushehr, Fars)
+```
