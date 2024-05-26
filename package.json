@@ -1,5 +1,5 @@
 {
-  "name": "iran-province-city-javascript",
+  "name": "@rezafaghih/iran-province-city-javascript",
   "version": "1.0.0",
   "description": "Iran Province and city javascript package",
   "main": "apps.js",
