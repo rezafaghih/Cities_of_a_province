@@ -10,7 +10,7 @@ you can use this library in your project to get cities and province of iran
 <p>1. Installation</p>
 
 ```
-npm i @rezafaghih/iran-province-city-javascript --save
+npm i iran-province-city-package -- save
 ```
 
 <h2>How to use it? 💻</h2>
@@ -21,7 +21,13 @@ simply you can add script in head of your project or use module
 
 <h5>Use Script</h5>
 ```html 
-    <script src = "node_modules/apps.js"></script>
+    <script src = "node_modules/iran-province-city-package/apps.js"></script>
+```
+
+or use Module 
+
+```javascript 
+    require ("iran-province-city-package");
 ```
 
 ```javascript
