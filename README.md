@@ -1,6 +1,9 @@
 # iran province and city package 
 
-$${\color{⭐ Don't forget to give this package a star on GitHub ⭐}Red}$$	
+⭐ Don't forget to give this package a star on GitHub if package was useful for you ⭐
+
+
+GITHUB : https://github.com/rezafaghih/Cities_of_a_province
 
 a simple javascript library (Package) to get Iran province and cities of a province 
 
